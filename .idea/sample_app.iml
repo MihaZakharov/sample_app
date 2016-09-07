@@ -18,6 +18,15 @@
     </requirement>
     <requirement>
       <requirement>
+<<<<<<< HEAD
+=======
+        <dependency name="capybara" version="2.1.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+>>>>>>> static-pages
         <dependency name="coffee-rails" version="4.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
@@ -36,6 +45,15 @@
     </requirement>
     <requirement>
       <requirement>
+<<<<<<< HEAD
+=======
+        <dependency name="pg" version="0.15.1" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+>>>>>>> static-pages
         <dependency name="puma" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
@@ -48,18 +66,51 @@
     </requirement>
     <requirement>
       <requirement>
+<<<<<<< HEAD
+=======
+        <dependency name="rails_12factor" version="0.0.2" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rspec-rails" version="2.13.1" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+>>>>>>> static-pages
         <dependency name="sass-rails" version="5.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
     </requirement>
     <requirement>
       <requirement>
+<<<<<<< HEAD
+=======
+        <dependency name="selenium-webdriver" version="2.35.1" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+>>>>>>> static-pages
         <dependency name="sqlite3" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
     </requirement>
     <requirement>
       <requirement>
+<<<<<<< HEAD
+=======
+        <dependency name="test-unit" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+>>>>>>> static-pages
         <dependency name="turbolinks" version="5" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
@@ -148,6 +199,27 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] turbolinks-source (v5.0.0, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/turbolinks-source-5.0.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-script (v2.4.1, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/coffee-script-2.4.1)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] tilt (v2.0.5, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/tilt-2.0.5)" level="application" />
+<<<<<<< HEAD
+=======
+    <orderEntry type="library" scope="PROVIDED" name="[gem] pg (v0.15.1, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.15.1-x86-mingw32)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] capybara (v2.1.0, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/capybara-2.1.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] selenium-webdriver (v2.35.1, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/selenium-webdriver-2.35.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-rails (v2.13.1, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rspec-rails-2.13.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rails_12factor (v0.0.2, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails_12factor-0.0.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-core (v2.13.1, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rspec-core-2.13.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.13.0, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rspec-expectations-2.13.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rails_stdout_logging (v0.0.5, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails_stdout_logging-0.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] diff-lcs (v1.2.5, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/diff-lcs-1.2.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.13.1, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rspec-mocks-2.13.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] childprocess (v0.5.9, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/childprocess-0.5.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rubyzip (v0.9.9, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rubyzip-0.9.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] ffi (v1.9.14, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/ffi-1.9.14-x86-mingw32)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] xpath (v2.0.0, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/xpath-2.0.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rails_serve_static_assets (v0.0.5, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails_serve_static_assets-0.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] websocket (v1.0.7, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/websocket-1.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit (v3.0.8, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] power_assert (v0.2.2, C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2)" level="application" />
+>>>>>>> static-pages
   </component>
 </module>
 
